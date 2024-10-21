@@ -1,0 +1,7 @@
+C:\Users\Rakesh\Desktop\C#Assessment\Assessment2\bin\Debug\Assessment2.exe.config
+C:\Users\Rakesh\Desktop\C#Assessment\Assessment2\bin\Debug\Assessment2.exe
+C:\Users\Rakesh\Desktop\C#Assessment\Assessment2\bin\Debug\Assessment2.pdb
+C:\Users\Rakesh\Desktop\C#Assessment\Assessment2\obj\Debug\Assessment2.csproj.AssemblyReference.cache
+C:\Users\Rakesh\Desktop\C#Assessment\Assessment2\obj\Debug\Assessment2.csproj.CoreCompileInputs.cache
+C:\Users\Rakesh\Desktop\C#Assessment\Assessment2\obj\Debug\Assessment2.exe
+C:\Users\Rakesh\Desktop\C#Assessment\Assessment2\obj\Debug\Assessment2.pdb
